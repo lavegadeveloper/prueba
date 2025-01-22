@@ -16,7 +16,12 @@ import jakarta.persistence.Id;
  * Los nombres de las columnas se ajustan al nombre que se requiere que se tenga
  * en la BD.
  * 
+ * Prueba de cambio local, pero ahora desde el vim y subiendolo
+ * directamente por la pagina http. Ver como se va a sincronizar 
+ * 
  * prueba de cambio local, como afecta remoto
+ * 
+ * Se integran ambos cambios
  */
 //Para la creacion de la tabla, no funciona esta anotacion @Table(value = "users")
 @Entity(name = "users")
