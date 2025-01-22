@@ -16,7 +16,7 @@ import jakarta.persistence.Id;
  * Los nombres de las columnas se ajustan al nombre que se requiere que se tenga
  * en la BD.
  * 
- * 
+ * prueba de cambio local, como afecta remoto
  */
 //Para la creacion de la tabla, no funciona esta anotacion @Table(value = "users")
 @Entity(name = "users")
